@@ -1,5 +1,5 @@
 import { Liff } from "@line/liff";
-import * as PropTypes from "prop-types";
+import PropTypes from "prop-types";
 import { FC, createElement, useEffect, useState } from "react";
 
 import { useLoginStateManager } from "../hooks/index.js";
